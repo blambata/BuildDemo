@@ -13,7 +13,8 @@ namespace Mvc3ToolsUpdateWeb_Default.Controllers
 {
     public class AccountController : Controller
     {
-        //add some code to trigger a CI build
+  
+        //this is added by Balajee Lambata for CI build
         private void MigrateShoppingCart(string UserName)
         {
             // Associate shopping cart items with logged-in user
